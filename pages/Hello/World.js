@@ -5,7 +5,7 @@ import Nav from '../../components/nav'
 
 const World = () => (
     <>
-        <h1>Hello World!!!</h1>
+        <h1>Hello World!!!!</h1>
         <span>Next.js</span>
     </>
 )
